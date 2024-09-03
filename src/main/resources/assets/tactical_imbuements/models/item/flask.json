@@ -1,0 +1,7 @@
+{
+  "parent": "tactical_imbuements:custom/empty_flask",
+  "textures": {
+    "0": "tactical_imbuements:blocks/flask",
+    "particle": "tactical_imbuements:items/flask"
+  }
+}

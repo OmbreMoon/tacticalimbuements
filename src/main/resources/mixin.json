@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "package": "net.m3tte.tactical_imbuements.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "tactical_imbuements.mixins.refmap.json",
+  "server": [
+  ],
+  "mixins": [
+    "TrailParticleInterface",
+    "LivingEntityMixin",
+    "TrailParticleMixin",
+    "ParryingSkillMixin",
+    "rectFillInvoker",
+    "renderBufferInterface",
+    "RenderBuffersMixin",
+    "getItemInvoker",
+    "ItemEntityTickMixin"
+  ],
+  "client": [
+    "ItemRendererMixin",
+    "rectFillInvoker"
+  ],
+  "minVersion": "0.8"
+}

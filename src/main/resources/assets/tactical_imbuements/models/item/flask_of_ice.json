@@ -1,0 +1,8 @@
+{
+  "parent": "tactical_imbuements:custom/flask_flame",
+  "textures": {
+    "0": "tactical_imbuements:blocks/flask",
+    "1": "tactical_imbuements:blocks/snow_aspect",
+    "particle": "tactical_imbuements:items/flask"
+  }
+}
